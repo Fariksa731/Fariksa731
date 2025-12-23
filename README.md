@@ -1,4 +1,4 @@
-﻿<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Farik AS</span></h1>
+﻿<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Fariiik</span></h1>
 
 <p align="center">
   🚀 Full-Stack Developer | JavaScript | Node.js | PayPal API | Automation
@@ -48,4 +48,5 @@
 ---
 
 <p align="center">⭐ If you like my work, consider giving a star!</p>
+
 
