@@ -42,11 +42,12 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: **farik7sa7402@gmail.com**
+- 📧 Email: **fariiikcontact@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/fariiike**
 
 ---
 
 <p align="center">⭐ If you like my work, consider giving a star!</p>
+
 
 
